@@ -1,0 +1,29 @@
+﻿  MRO_vr_5_fin.cpp
+C:\MRO_vr_5_fin\MRO_vr_5_fin\MRO_vr_5_fin.cpp(39,49): warning C4305: инициализация: усечение из "double" в "_Ty"
+          with
+          [
+              _Ty=float
+          ]
+C:\MRO_vr_5_fin\MRO_vr_5_fin\MRO_vr_5_fin.cpp(39,53): warning C4305: инициализация: усечение из "double" в "_Ty"
+          with
+          [
+              _Ty=float
+          ]
+C:\MRO_vr_5_fin\MRO_vr_5_fin\MRO_vr_5_fin.cpp(39,70): warning C4305: инициализация: усечение из "double" в "_Ty"
+          with
+          [
+              _Ty=float
+          ]
+C:\MRO_vr_5_fin\MRO_vr_5_fin\MRO_vr_5_fin.cpp(39,77): warning C4305: инициализация: усечение из "double" в "_Ty"
+          with
+          [
+              _Ty=float
+          ]
+C:\MRO_vr_5_fin\MRO_vr_5_fin\MRO_vr_5_fin.cpp(39,84): warning C4305: инициализация: усечение из "double" в "_Ty"
+          with
+          [
+              _Ty=float
+          ]
+C:\MRO_vr_5_fin\MRO_vr_5_fin\MRO_vr_5_fin.cpp(14,13): warning C4101: vec: неиспользованная локальная переменная
+C:\MRO_vr_5_fin\MRO_vr_5_fin\MRO_vr_5_fin.cpp(16,9): warning C4101: metrica: неиспользованная локальная переменная
+  MRO_vr_5_fin.vcxproj -> C:\MRO_vr_5_fin\x64\Debug\MRO_vr_5_fin.exe

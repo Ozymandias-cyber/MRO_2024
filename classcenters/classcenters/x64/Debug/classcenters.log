@@ -1,0 +1,5 @@
+﻿  classcenters.cpp
+C:\MRO_vr_5_fin\classcenters\classcenters\classcenters.cpp(22,1): warning C4010: однострочный комментарий содержит знак объединения строк
+C:\MRO_vr_5_fin\classcenters\classcenters\classcenters.cpp(25,1): warning C4010: однострочный комментарий содержит знак объединения строк
+C:\MRO_vr_5_fin\classcenters\classcenters\classcenters.cpp(28,1): warning C4010: однострочный комментарий содержит знак объединения строк
+  classcenters.vcxproj -> C:\MRO_vr_5_fin\classcenters\x64\Debug\classcenters.exe
